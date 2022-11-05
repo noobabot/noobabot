@@ -1,1 +1,5 @@
-{"ip":"MOB00.aternos.me","name":"noobabot","port":"26028"}
+{
+
+      "ip":"MOB00.aternos.me",
+      "port": "26028"
+      "name": "noobabot"
